@@ -1,24 +1,64 @@
+
+<!DOCTYPE html>
 <html>
-
-<head> <strong>Dreams</strong></head>
-
-<p><h1>
-<li> love</li>
-<li> life</li>
-
-</h1>
-
-
-
-
-
-
-
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+        <style>
+            #spaghetti{background-color:yellow;}
+            #beef{background-color:red;}
+            #noodles{background-color:brown;}
+        </style>
+        <h1>David's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#web-spaghatti">spaghatti</a></li>
+        </ol>
+        
+        <h2 id="web-spaghatti">How spaghatti is  made"!
+             </h2>  
+        <p id="spaghetti"> You can cook it in a pot.Add a little pupper and salt.Pour some olive oil.Put onion slices in it.Put it on the oven for a few minutes.</p>
+        <ul>
+            <li>Time: about five minutes_</li>
+            <li>Serves: with fork</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients quantity                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                   <td id="beef">beef</td>
+                   <td>5lb</td> </tr>
+                  
+                   <tr>
+                    <td id="noodles">noodles</td>
+                   <td>one pack</td>
+        
+                    </tr>
+                    
+                   <tr>
+                       <td id="garlic">garlic</td>
+                       <td>2g</td>
+                   </tr>
+            
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cook them altogether in a pot.<br>
+        Stir them throughouly<br>
+        Cover it for three minutes.
 </p>
-
-
-
-
-
-
+        
+    <p><em>Source: <a href="https://images.app.goo.gl/UjxzBtUxEKDexBm16">https://images.app.goo.gl/UjxzBtUxEKDexBm16</a></em></p>
+    
+    </body>
 </html>
